@@ -2,8 +2,8 @@
 Assignments for my <b>Tech Academy</b> bootcamp
 
 # Programs:
--Daily Report
--CodeFirs Database builder
+-Daily Report  
+-CodeFirst Database builder
 
 # Daily Report:
 Here is a console app that replicates the Tech Academy Daily Reports. It asks a series of questions and takes a responce from the user.
