@@ -1,0 +1,7 @@
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\ACMEaccounting\ACMEaccounting\bin\Debug\ACMEaccounting.exe.config
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\ACMEaccounting\ACMEaccounting\bin\Debug\ACMEaccounting.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\ACMEaccounting\ACMEaccounting\bin\Debug\ACMEaccounting.pdb
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\ACMEaccounting\ACMEaccounting\obj\Debug\ACMEaccounting.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\ACMEaccounting\ACMEaccounting\obj\Debug\ACMEaccounting.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\ACMEaccounting\ACMEaccounting\obj\Debug\ACMEaccounting.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\ACMEaccounting\ACMEaccounting\obj\Debug\ACMEaccounting.pdb
